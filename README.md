@@ -8,6 +8,10 @@ Mentor: Neela santhosh kumar
 Inventory Management System
 
 Overview of the project.
+
+
+
+
 [Screenshot 2024-12-27 211105](https://github.com/user-attachments/assets/081e4222-1fd1-4855-aa2b-6b514f3c875b)
 ![Screenshot 2024-12-27 210515](https://github.com/user-attachments/assets/0e1d3fe2-11b9-4e8b-b7ec-7c39e5f36552)
 
@@ -91,5 +95,4 @@ Mobile App Extension to manage inventory on the go.
 *, License:
 This project is released under the MIT License.
 
-Would you like me to provide the Python code for the inventory management system with GUI and databas![Screenshot 2024-12-27 211105](https://github.com/user-attachments/assets/081e4222-1fd1-4855-aa2b-6b514f3c875b)
-![Screenshot 2024-12-27 210515](https://github.com/user-attachments/assets/0e1d3fe2-11b9-4e8b-b7ec-7c39e5f36552)
+Would you like me to provide the Python code for the inventory management system with GUI and databas!

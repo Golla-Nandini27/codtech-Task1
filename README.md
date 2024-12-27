@@ -13,7 +13,8 @@ Overview of the project.
 
 
 [Screenshot 2024-12-27 211105](https://github.com/user-attachments/assets/081e4222-1fd1-4855-aa2b-6b514f3c875b)
-![Screenshot 2024-12-27 210515](https://github.com/user-attachments/assets/0e1d3fe2-11b9-4e8b-b7ec-7c39e5f36552)
+![Screenshot 2024-12-27 211105](https://github.com/user-attachments/assets/d714cbf9-e429-4256-8858-9139c9c21d7f)
+
 
 Overview: Inventory Management System
 The Inventory Management System is a Python-based application designed to manage inventory for stores, warehouses, or small businesses. 

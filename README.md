@@ -23,8 +23,7 @@ Default credentials for demonstration:
 Username: admin
 Password: password123
 
-[Screenshot 2024-12-27 211105](https://github.com/user-attachments/assets/081e4222-1fd1-4855-aa2b-6b514f3c875b)
-
+![Screenshot 2024-12-27 210515](https://github.com/user-attachments/assets/3eb49994-17ab-41f7-bcb0-f26042f68fe5)
 
 Key Features:
 
